@@ -53,3 +53,4 @@ C:\Users\Usuario\source\repos\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net
 C:\Users\Usuario\source\repos\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Usuario\source\repos\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
 C:\Users\Usuario\source\repos\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\source\repos\GeekShopping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.sourcelink.json
